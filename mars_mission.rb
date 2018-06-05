@@ -14,4 +14,3 @@ while !ARGF.eof
 
   puts rover
 end
-puts "=========="
